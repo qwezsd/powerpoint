@@ -1,11 +1,11 @@
 import React from 'react';
-import HeaderComponent from './HeaderComponent';
+import WindowComponent from './WindowComponent';
 import MenuComponent from './MenuComponent';
 
 export default function WrapComponent (){
     return (
         <div id='wrap'>
-            <HeaderComponent />
+            <WindowComponent />
             <MenuComponent />
         </div>
     );

@@ -1,4 +1,4 @@
-#header {
+#window {
     width: 100%;
     height:40px;
     background: linear-gradient(#d3d3d35b, #adadad95);
@@ -32,19 +32,19 @@
                     background-color: transparent;
                     border: 0.2px solid #c8c8c8;
                     border-radius: 4px;
+                    padding-left: 30px;
+                    outline-color: #e97132 ;
+                    outline-offset: 1px;
+                    outline-width: 14px;
+                    background: url('../../../public/img/icon/0d1058544686e78d80d0e2feb5f09c00.jpg') no-repeat 10px;
+                    background-position: 5px;
+                    background-size: 18px;
+                    
                     &::placeholder {
                         font-size: 12px;
-                        padding-left: 20px;
                         font-weight: 600;
                     }
 
-                }
-                img {
-                    width: 16px;
-                    height: 16px;
-                    position: absolute;
-                    top: 11px;
-                    left: 2px;
                 }
             }
         }
