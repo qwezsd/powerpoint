@@ -2,6 +2,7 @@ import React from 'react';
 import WindowComponent from './WindowComponent';
 import HeaderComponent from './HeaderComponent';
 import MenuComponent from './MenuComponent';
+import FooterComponent from './FooterComponent';
 
 export default function WrapComponent (){
     return (
@@ -9,6 +10,7 @@ export default function WrapComponent (){
             <WindowComponent />
             <HeaderComponent />
             <MenuComponent />
+            <FooterComponent />
         </div>
     );
 };

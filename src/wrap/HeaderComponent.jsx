@@ -7,12 +7,12 @@ export default function HeaderComponent () {
             <div className="container">
                 <div className="content">
                     <ul>
-                        <li>붙여넣기</li>
-                        <li>뒤로가기</li>
-                        <li>새 슬라이드 추가</li>
-                        <li>폰트 키우기</li>
-                        <li>폰트 줄이기</li>
-                        <li>폰트 색</li>
+                        <li><h4>붙여넣기</h4></li>
+                        <li><h4>뒤로가기</h4></li>
+                        <li><h4>새 슬라이드 추가</h4></li>
+                        <li><h4>폰트 키우기</h4></li>
+                        <li><h4>폰트 줄이기</h4></li>
+                        <li><h4>폰트색</h4></li>
                     </ul>
                 </div>
             </div>
