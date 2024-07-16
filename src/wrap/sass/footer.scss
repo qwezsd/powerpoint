@@ -1,8 +1,8 @@
 #footer {
     width: 100%;
     height: 36px;
-    background-color: #c9c9c98f;
-    border-top: 1px solid #b5b5b58f;
+    background-color: #c9c9c966;
+    border-top: 1px solid #b5b5b5b0;
     .container {
         width: 100%;
         height: 100%;
@@ -20,9 +20,12 @@
                 width: 100%;
                 display: flex;
                 align-items: center;
+                padding: 0 15px;
                 li {
+                    padding: 0 8px;
                     span {
-
+                        font-size: 13px;
+                        color: #666;
                     }
                 }
             }
