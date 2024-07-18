@@ -2,9 +2,9 @@
     width: 100%;
     height:40px;
     background: #d3d3d35b;
-    transition: box-shadow 0.25s ease-in-out;
+    // transition: 0.25s ease-in-out;
     &:hover {
-        box-shadow: 1px 1px 10px #999;
+        // box-shadow: 1px 1px 10px #999;
         background: linear-gradient(#d3d3d35b, #adadad95);
     }
     .container {
