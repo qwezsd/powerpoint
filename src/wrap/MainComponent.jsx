@@ -9,7 +9,7 @@ export default function MainComponent () {
                 <div className="left-content">
                     <div className="left-slide">
                         <div className="left-box">
-                            
+                            <div className="slide-box"></div>
                         </div>
                     </div>
                 </div>
